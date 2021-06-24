@@ -1,4 +1,4 @@
-# Discord-Message-Live Feed
+# Discord-Message-Live-Feed
 
 ### Discord Message Live Feed is a program that uses the Twitter and Discord APIs, to keep a Twitter account updated live of all messages sent on a Discord server.
 
