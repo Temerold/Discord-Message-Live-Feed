@@ -47,6 +47,7 @@ async def on_message(message):
 
 	if len(mes) >= max_length: # The message (mes) doesn't fit in one tweet
 		parts = [] # Empty to-be spliced up message (mes) array
+		
 		while mes != "":
 			# Appends message (mes) to parts array, until it's entirely spliced up (with a length of max_length) into the array
 			parts.append(mes[:max_length])
