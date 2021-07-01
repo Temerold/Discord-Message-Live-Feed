@@ -65,4 +65,5 @@ async def on_message(message):
 
 	image = False
 
+	
 client.run(discord_token) # Runs Discord bot client
