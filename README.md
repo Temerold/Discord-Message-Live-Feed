@@ -19,5 +19,12 @@ After you've created the bot, go to the 'OAuth2' settings tab and select 'bot' i
 Download the code, and input the token from the Discord application's 'Bot' settings tab and your Twitter project keys (to obtain your Twitter project keys go to the project settings tab, and click the key besides your app) into the auth.py file.
 
 ### 5. Run the program
-Make sure you have Python 3.x installed, preferably the latest version - https://www.python.org/.
-Run the MLF.py file using Python and watch the magic happen!
+Make sure you have Python 3.x installed, preferably the latest version - https://www.python.org/. If they're not already installed, install the following pip libraries:
+
+| Library | PyPI                                 | Website                              |
+| ------- | ------------------------------------ | ------------------------------------ |
+| tweepy  | https://pypi.org/project/tweepy/     | https://www.tweepy.org/              |
+| discord | https://pypi.org/project/discord.py/ | https://github.com/Rapptz/discord.py |
+| pytz    | https://pypi.org/project/pytz        | https://pythonhosted.org/pytz/       |
+
+At last, run the MLF.py file using Python and watch the magic happen!
