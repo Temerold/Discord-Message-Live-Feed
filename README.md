@@ -1,4 +1,4 @@
-# Discord-Message-Live-Feed
+# Discord Lvl-Bot
 
 ### Discord Message Live Feed is a program that uses the Twitter and Discord APIs, to keep a Twitter account updated live of all messages sent on a Discord server.
 
@@ -21,7 +21,7 @@ Download the code, and input the token from the Discord application's 'Bot' sett
 ### 5. Run the program
 Make sure you have Python 3.x installed, preferably the latest version - https://www.python.org/. If they're not already installed, install the following pip libraries:
 
-| Library | PyPI                                 | Website                              |
+| Library | PyPI link                            | Website                              |
 | ------- | ------------------------------------ | ------------------------------------ |
 | tweepy  | https://pypi.org/project/tweepy/     | https://www.tweepy.org/              |
 | discord | https://pypi.org/project/discord.py/ | https://github.com/Rapptz/discord.py |
