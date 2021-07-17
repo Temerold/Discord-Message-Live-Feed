@@ -12,7 +12,7 @@ Secondly, apply for a Twitter developer account on https://developer.twitter.com
 Create a Twitter API project (and app, in the project) on https://developer.twitter.com/en/portal/dashboard.
 
 ### 3. Create a Discord bot
-If you don't already have a Discord account, go create on at https://discord.com. If (or when) you have an account, go to https://discord.com/developers/applications and create a new application. Go to the 'Bot' settings tab and click 'Add Bot'.
+If you don't already have a Discord account, go create one at https://discord.com. If (or when) you have an account, go to https://discord.com/developers/applications and create a new application. Go to the 'Bot' settings tab and click 'Add Bot'.
 After you've created the bot, go to the 'OAuth2' settings tab and select 'bot' in 'Scopes'. Then, copy the link underneath, it looks something like this: https://discord.com/api/oauth2/authorize?client_id=xxxxxxxxxxxxxxxxxx&permissions=0&scope=bot. Use the link you copied to invite the bot to your Discord server. It needs no permissions, except being able to read messages.
 
 ### 4. Set up the code
